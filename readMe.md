@@ -9,4 +9,4 @@
 <br>2.Apply design patterns: State Machine, Reducer, and Action union</br>
 <br>3.Strategy pattern for requirements</br>
 <br>4.Add hoverover text for the specialties</br>
-<br>5.Update the export function to use the better character sheets (I've got set I've cobbled together).</br>
+<br>5.Update the export function to use the better character sheets (I've got a set I've cobbled together).</br>
